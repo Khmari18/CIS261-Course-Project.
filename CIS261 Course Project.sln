@@ -3,29 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CIS261 Course Project", "..\CIS261 Course Project\CIS261 Course Project\CIS261 Course Project.vcxproj", "{6F120617-C1B5-432E-AE1E-D92977FEAACA}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CIS261 Course Project", "CIS261 Course Project\CIS261 Course Project.pyproj", "{E97ABAC4-1ED0-4050-9517-B92CFD9168B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
-		Release|x64 = Release|x64
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6F120617-C1B5-432E-AE1E-D92977FEAACA}.Debug|x64.ActiveCfg = Debug|x64
-		{6F120617-C1B5-432E-AE1E-D92977FEAACA}.Debug|x64.Build.0 = Debug|x64
-		{6F120617-C1B5-432E-AE1E-D92977FEAACA}.Debug|x86.ActiveCfg = Debug|Win32
-		{6F120617-C1B5-432E-AE1E-D92977FEAACA}.Debug|x86.Build.0 = Debug|Win32
-		{6F120617-C1B5-432E-AE1E-D92977FEAACA}.Release|x64.ActiveCfg = Release|x64
-		{6F120617-C1B5-432E-AE1E-D92977FEAACA}.Release|x64.Build.0 = Release|x64
-		{6F120617-C1B5-432E-AE1E-D92977FEAACA}.Release|x86.ActiveCfg = Release|Win32
-		{6F120617-C1B5-432E-AE1E-D92977FEAACA}.Release|x86.Build.0 = Release|Win32
+		{E97ABAC4-1ED0-4050-9517-B92CFD9168B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97ABAC4-1ED0-4050-9517-B92CFD9168B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1137D7DB-FD4A-4561-8E03-EE6CCD282F12}
+		SolutionGuid = {1A96C707-AB95-4B3E-A372-49E2AA1B3600}
 	EndGlobalSection
 EndGlobal
